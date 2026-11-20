@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Trophy Guide — GTA VI Trophy Tracker</title>
+<meta name="description" content="An offline guide and tracker for all 55 Grand Theft Auto VI trophies on PlayStation 5: checklist, roadmap to the platinum, missable flags and a cited guide for every trophy.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-inner">
+    <p class="kicker">Grand Theft Auto VI &middot; PlayStation 5 &middot; Offline guide &amp; tracker</p>
+    <h1>Leonida Trophy Guide</h1>
+    <p class="lede">All 55 official trophies — 1 platinum, 2 gold, 6 silver, 46 bronze — with a
+      cited guide for each one, a roadmap to the platinum, and a checklist that
+      saves on your own machine. No account, no network, no ads.</p>
+    <div class="progress" role="status" aria-live="polite">
+      <div class="progress-bar"><div id="progressFill" class="progress-fill" style="width:0%"></div></div>
+      <p id="progressText" class="progress-text">0 of 55 earned &middot; 0%</p>
+      <p id="gradeCounts" class="grade-counts"></p>
+    </div>
+  </div>
+</header>
+
+<nav class="tabs" aria-label="Views">
+  <button id="tabChecklist" type="button" class="tab active" aria-selected="true">Checklist</button>
+  <button id="tabRoadmap" type="button" class="tab" aria-selected="false">Roadmap to Platinum</button>
+</nav>
+
+<section class="controls" aria-label="Filters and settings">
+  <label class="search">Search
+    <input id="search" type="search" placeholder="Trophy name or description…" autocomplete="off">
+  </label>
+  <fieldset class="kind-filters">
+    <legend>Kind</legend>
+    <div id="kindButtons" class="kind-buttons" role="group" aria-label="Filter by kind"></div>
+  </fieldset>
+  <label class="grade-filter">Grade
+    <select id="grade">
+      <option value="all">All grades</option>
+      <option value="platinum">Platinum</option>
+      <option value="gold">Gold</option>
+      <option value="silver">Silver</option>
+      <option value="bronze">Bronze</option>
+    </select>
+  </label>
+  <label class="check"><input id="spoiler" type="checkbox"> Hide story spoilers</label>
+  <label class="check"><input id="earnedOnly" type="checkbox"> Earned only</label>
+  <div class="io-buttons">
+    <button id="export" type="button">Export progress</button>
+    <label class="import-btn">Import progress <input id="import" type="file" accept="application/json,.json"></label>
+    <button id="reset" type="button">Reset</button>
+  </div>
+</section>
+
+<main>
+  <section id="viewChecklist" class="view">
+    <p id="resultCount" class="result-count"></p>
+    <ul id="trophyList" class="trophy-list"></ul>
+    <p id="emptyNote" class="empty-note" hidden>No trophies match these filters.</p>
+  </section>
+
+  <section id="viewRoadmap" class="view" hidden>
+    <h2>Roadmap to the platinum</h2>
+    <p class="roadmap-intro">Play in this order and the platinum follows naturally. The story
+      trophies unlock as you play; the stages after the story are the grind.
+      Anything flagged <strong class="missable-flag">Missable</strong> is called out where a
+      cited source says it can be missed — everything else can be earned after
+      the story, or by replaying a mission.</p>
+    <ol id="roadmapList" class="roadmap-list"></ol>
+    <h3>Missable trophies</h3>
+    <p class="roadmap-note">Only the trophies below are flagged missable, each because a cited
+      source says so. If a trophy is not listed here, you can still earn it
+      after finishing the story.</p>
+    <ul id="missableList" class="missable-list"></ul>
+  </section>
+</main>
+
+<aside id="detail" class="detail" hidden aria-label="Trophy guide">
+  <button id="detailClose" type="button" class="detail-close" aria-label="Close guide">&times;</button>
+  <div id="detailBody" class="detail-body"></div>
+</aside>
+
+<footer>
+  <h2>Sources &amp; notes</h2>
+  <p>Trophy names, descriptions and grades are the official PlayStation 5 list
+    as published (55 trophies: 1 platinum, 2 gold, 6 silver, 46 bronze).
+    Every guide is written for this page in our own words; each one names the
+    source its facts come from — a source is cited, never copied. Where a
+    detail is still unconfirmed, the guide says so instead of guessing.</p>
+  <p>General sources: PowerPyx GTA 6 Trophy Guide, PSNProfiles GTA VI Trophy
+    Guide, PlayStationTrophies.org, Exophase. See each trophy's guide for its
+    own sources.</p>
+  <p class="disclaimer">Unofficial fan guide. Not affiliated with, endorsed by, or connected
+    to Rockstar Games, Take-Two Interactive or Sony Interactive Entertainment.
+    Grand Theft Auto and GTA are trademarks of Take-Two Interactive. Progress
+    is stored only in your browser (localStorage); nothing leaves your machine.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
