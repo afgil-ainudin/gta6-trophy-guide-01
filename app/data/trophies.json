@@ -1,0 +1,832 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": false,
+      "guide": "Trophy platinum ini terbuka otomatis begitu 54 trophy lainnya sudah kamu raih, jadi tidak ada langkah khusus yang perlu dilakukan untuknya. Fokuslah pada roadmap besar: tamatkan cerita lima chapter, kerjakan checklist 100% completion, lalu bersihkan sisa trophy sampingan dan koleksi. PowerPyx memperkirakan platinum butuh sekitar 200 jam dengan tingkat kesulitan 4 dari 10, dan cukup satu playthrough karena tidak ada trophy online. Jangan aktifkan cheat di save utama, karena cheat menonaktifkan trophy dan penyimpanan.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy cerita yang terbuka otomatis setelah kamu menyelesaikan misi pembuka Gone Fishing di Chapter 1. Tidak ada syarat tambahan dan tidak bisa terlewat, karena misi ini wajib dimainkan untuk melanjutkan cerita. Ikuti saja objektif misi yang muncul di layar, selesaikan semua tahapannya, dan trophy akan muncul begitu misi berakhir. Karena tidak ada fitur mission replay di GTA 6, simpanlah secara manual di awal dan akhir tiap chapter sebagai pengaman, sesuai saran PowerPyx, agar progres cerita tetap aman.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements (https://www.planetgta6.com/en/gta-6-trophies/)"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy ini terbuka otomatis saat kamu menyelesaikan Chapter 1 dan cerita berlanjut ke chapter berikutnya. Mainkan semua misi utama Chapter 1 sampai selesai; tidak ada misi opsional yang wajib untuk trophy ini. Perlu diingat, menurut beberapa panduan, trophy chapter kadang muncul sedikit terlambat, yaitu setelah kamu menyelesaikan satu atau dua misi pertama di chapter berikutnya, jadi jangan panik bila belum langsung muncul. Sebelum meninggalkan Chapter 1, lakukan meditasi Lucia di balkon rumah Jason agar aman untuk trophy Positive Mental Attitude.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy cerita otomatis yang didapat begitu kamu menamatkan Chapter 2. Teruskan memainkan misi-misi utama sampai chapter berakhir; tidak ada koleksi atau aktivitas sampingan yang menjadi syaratnya. Mulai Chapter 2, Jason dan Lucia bisa menjelajah bersama, sehingga trophy yang membutuhkan partner seperti Hot Together dan Retail Therapy baru bisa dikerjakan. Simpan progres secara manual di awal dan akhir chapter, karena GTA 6 tidak menyediakan mission replay. Bila trophy belum muncul tepat saat chapter berganti, lanjutkan satu atau dua misi berikutnya karena kadang pop-nya sedikit tertunda.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements (https://www.planetgta6.com/en/gta-6-trophies/)"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy ini terbuka otomatis setelah kamu menyelesaikan Chapter 3. Jalani seluruh misi utama chapter ini sampai cerita berpindah ke Chapter 4; tidak ada persyaratan tersembunyi. Di Chapter 3 beberapa quest sampingan penting mulai terbuka, seperti strand Andy yang hanya bisa dimainkan Lucia dan strand Tyrone yang hanya bisa dimainkan Jason, jadi ambillah misi opsional yang muncul selagi tersedia, meski tidak wajib untuk trophy ini. Jangan gunakan cheat di save utama karena cheat menonaktifkan trophy dan membuat game tidak bisa menyimpan.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy cerita yang muncul otomatis begitu Chapter 4 selesai dan kamu memasuki chapter terakhir. Selesaikan semua misi utama Chapter 4; tidak ada koleksi atau aktivitas yang diwajibkan. Perlu diketahui, beberapa misi perampokan bank terbuka lewat misi opsional di Chapter 4, jadi ambillah misi opsional perampokan saat muncul karena itu akan membantu trophy Maximum Withdrawal dan checklist 100%. Buat save manual di akhir Chapter 4 sebelum melangkah ke misi final, sebagai pengaman karena game tidak memiliki mission replay.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy gold ini terbuka otomatis setelah kamu menyelesaikan misi terakhir cerita utama, yang menutup lima chapter GTA 6. Tidak ada syarat peringkat atau kesulitan tertentu, jadi mainkan misi final dengan tenang dan ikuti objektifnya sampai kredit berjalan. Setelah cerita tamat, kamu kembali ke free roam dan checklist 100% Completion terbuka di menu Progress, sehingga hampir semua trophy lain masih bisa dikerjakan sesudahnya. Karena tidak ada mission replay, buatlah save manual sebelum misi final dimulai untuk berjaga-jaga.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements (https://www.planetgta6.com/en/gta-6-trophies/)"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy cerita yang terbuka otomatis setelah kamu menyelesaikan misi utama Breakfast Run. Misi ini merupakan bagian dari alur cerita, jadi cukup mainkan sampai selesai dan ikuti objektif yang ditampilkan. Tidak ada syarat tambahan, peringkat, atau batas waktu yang memengaruhi trophy ini, dan misi cerita tidak bisa terlewat selama kamu memainkan story mode. Lokasi dan urutan misi ini di dalam chapter belum terkonfirmasi secara rinci oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru), tetapi sebagai misi cerita ia akan muncul dengan sendirinya seiring progres.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements (https://www.planetgta6.com/en/gta-6-trophies/)"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy ini terbuka otomatis saat kamu menyelesaikan misi utama The Cartel Heist, sebuah perampokan besar dalam cerita. Mainkan misi tersebut sampai selesai dengan mengikuti objektif di layar; tidak ada syarat khusus seperti tanpa ketahuan atau tanpa mati. Trophy ini terkait dengan alur cerita sehingga tidak bisa terlewat selama kamu menamatkan game. Detail persiapan dan tahapan misi ini belum terkonfirmasi secara rinci oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru), jadi ikuti saja petunjuk misi saat memainkannya.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements (https://www.planetgta6.com/en/gta-6-trophies/)"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy cerita yang muncul otomatis begitu misi utama Child's Play selesai dimainkan. Cukup jalani misi ini sampai akhir sesuai objektif yang muncul; tidak ada kondisi tambahan seperti menjaga karakter tertentu tetap hidup atau menyelesaikan dalam waktu tertentu. Karena misi ini bagian dari cerita utama, trophy tidak bisa terlewat selama kamu menamatkan game. Chapter dan urutan pasti misi ini belum terkonfirmasi secara rinci oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru), tetapi ia akan terbuka dengan sendirinya saat kamu mencapai titik tersebut dalam cerita.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements (https://www.planetgta6.com/en/gta-6-trophies/)"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy ini terbuka otomatis setelah misi utama Headliners selesai. Mainkan misi tersebut hingga tuntas dengan mengikuti penanda objektif; tidak ada syarat peringkat atau gaya bermain tertentu. Sebagai misi cerita, trophy ini tidak bisa terlewat selama kamu memainkan story mode sampai tamat. Detail isi dan chapter misi Headliners belum terkonfirmasi secara rinci oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru), jadi ikuti saja alur cerita dan trophy akan muncul ketika misi tersebut selesai dimainkan.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements (https://www.planetgta6.com/en/gta-6-trophies/)"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy cerita yang didapat otomatis begitu misi utama VCIA Takedown selesai. VCIA adalah bandara internasional Vice City, jadi misi ini berkaitan dengan aksi di area bandara. Selesaikan semua tahapan misi sesuai objektif di layar; tidak ada syarat tambahan seperti tanpa alarm atau tanpa kerusakan. Trophy ini tidak bisa terlewat karena misinya wajib dalam cerita. Urutan chapter dan detail tahapan misi ini belum terkonfirmasi secara rinci oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru), jadi ikuti petunjuk misi saat memainkannya.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements (https://www.planetgta6.com/en/gta-6-trophies/)"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy ini terbuka otomatis setelah kamu menyelesaikan misi utama Operation Savage Glory. Mainkan misi ini sampai selesai dengan mengikuti objektifnya; tidak ada kondisi khusus seperti menyelesaikan tanpa ketahuan atau dalam batas waktu tertentu. Sebagai bagian dari cerita utama, trophy tidak bisa terlewat selama kamu menamatkan game. Chapter pasti dan detail tahapan misi ini belum terkonfirmasi secara rinci oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru), tetapi misi ini akan muncul dengan sendirinya seiring progres cerita.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements (https://www.planetgta6.com/en/gta-6-trophies/)"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": false,
+      "guide": "Trophy gold tersulit di game ini: capai 100% pada checklist completion yang terbuka setelah cerita tamat, di menu Progress lalu Stats lalu 100% Completion. Menurut PowerPyx, checklist ini lebih longgar dari kelihatannya, mendekati 60% penyelesaian sejati, dan sebagian besar side quest tidak diwajibkan. Yang wajib antara lain semua perampokan, semua bank vault, semua operasi geng, semua penemuan bawah air, semua shooting range, semua drone race, quest Bret, 70 dari 80 challenge, 300 stunt, dan 15 dari 18 meditasi. Progres selama cerita sudah terhitung, jadi kerjakan sambil berjalan dan sisakan cleanup untuk setelah tamat.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "kind": "activity",
+      "missable": false,
+      "count": 250,
+      "hidden": false,
+      "guide": "Selesaikan 250 stunt dari total 397 stunt yang ada di Leonida, menurut hitungan PowerPyx. Stunt jump, terbang di bawah jembatan, knife flight, dan base jump semuanya dihitung, dan kamu boleh mencampurnya sesuka hati. Tidak ada keharusan menyelesaikan semuanya, cukup 250, sedangkan checklist 100% membutuhkan 300. Stunt tersebar di seluruh peta, jadi kerjakan sambil menjelajah, dan gunakan kendaraan cepat atau pesawat untuk stunt terbang. Progres bisa dipantau di menu Progress, dan semua stunt tetap bisa dilakukan setelah cerita tamat.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "count": 9,
+      "hidden": false,
+      "guide": "Coba masing-masing dari 9 jenis aktivitas satu kali. Menurut PowerPyx, kesembilan jenis itu adalah memancing, berburu, golf, shooting range, pool, basket, video game, balapan, dan stunt. Kamu tidak perlu menang atau meraih skor tertentu, cukup mencoba tiap aktivitas sekali. Aktivitas tersebar di seluruh Leonida dan sebagian besar bisa diakses sejak awal permainan, jadi kerjakan sambil menjelajah peta. Trophy ini akan muncul begitu jenis aktivitas terakhir dicoba, dan semuanya tetap tersedia setelah cerita tamat, jadi tidak ada yang bisa terlewat.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "kind": "activity",
+      "missable": false,
+      "count": 42,
+      "hidden": false,
+      "guide": "Raih medali emas di semua 42 tantangan Shooting Range yang tersebar di Leonida. Datangi tiap shooting range, pilih tantangannya, dan tembak target seakurat dan secepat mungkin untuk mencapai ambang emas. Gunakan senjata yang paling kamu kuasai dan latih pola targetnya sebelum mencoba serius. Shooting range juga wajib diselesaikan semua untuk checklist 100%, jadi trophy ini sekaligus membantu A Long Road. Semua tantangan tetap bisa diulang setelah cerita tamat, jadi tidak ada yang bisa terlewat; lokasi persis tiap range belum terkonfirmasi (belum terkonfirmasi — periksa panduan terbaru).",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "count": 14,
+      "hidden": false,
+      "guide": "Menangkan satu balapan drone Top Fun di masing-masing dari 14 lokasi yang tersebar di Leonida. Datangi tiap lokasi Top Fun, ikuti balapan drone, dan finis di posisi pertama. Balapan drone menguji kendali dan jalur terbang, jadi pelajari rutenya sekali sebelum mencoba menang, dan potong tikungan sebisa mungkin. Semua lokasi drone race juga wajib dimenangkan untuk checklist 100%, sehingga trophy ini membantu A Long Road. Semua balapan bisa diulang setelah cerita tamat, jadi tidak ada yang bisa terlewat; peta tiap lokasi belum terkonfirmasi (belum terkonfirmasi — periksa panduan terbaru).",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "count": 20,
+      "hidden": false,
+      "guide": "Menangkan 20 balapan yang berbeda di seluruh Leonida. Balapan bisa berupa balapan jalanan, balapan off-road, atau jenis lainnya, dan yang dihitung adalah balapan yang berbeda, bukan kemenangan berulang di balapan yang sama. Pilih kendaraan yang sesuai dengan jenis balapan, pelajari rutenya, dan gunakan jalan pintas bila memungkinkan. Balapan tersebar di berbagai wilayah dan tetap tersedia setelah cerita tamat, jadi kamu bisa mengerjakannya kapan saja. Daftar lengkap 20 balapan termudah belum terkonfirmasi (belum terkonfirmasi — periksa panduan terbaru).",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "count": null,
+      "hidden": false,
+      "guide": "Kalahkan Cal dalam sebuah tantangan memancing. Menurut Sixshore, Cal akan mengirim pesan berisi lokasi memancing setelah kamu bertemu dengannya di Chapter 1, jadi ikuti pesan tersebut dan datangi spot yang ditunjuk. Dalam tantangan, tangkap ikan dengan nilai atau jumlah lebih baik dari Cal sebelum waktu habis. Gunakan umpan dan lokasi yang tepat, dan perhatikan tarikan pancing agar tidak putus. Tantangan ini juga dihitung sebagai salah satu jenis aktivitas untuk Master of None. Detail aturan skor tantangan Cal belum terkonfirmasi (belum terkonfirmasi — periksa panduan terbaru).",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "count": null,
+      "hidden": false,
+      "guide": "Selesaikan satu permainan arcade atau video game di dalam game sampai tamat. Menurut Sixshore, ada tiga game yang bisa dimainkan lewat TV di rumah dan satu game keempat di mesin arcade, jadi pilih game yang paling mudah dan mainkan sampai selesai. Tidak perlu menyelesaikan semua game, cukup satu. Aktivitas ini juga dihitung sebagai jenis aktivitas video game untuk trophy Master of None. Judul game dan langkah menyelesaikannya belum terkonfirmasi secara rinci oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru), jadi coba game yang tersedia dan mainkan sampai akhir.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Selesaikan misi terakhir dari strand sampingan Andy. Menurut Sixshore, strand ini hanya bisa dimainkan sebagai Lucia dan dimulai dengan panggilan telepon di Chapter 3, jadi mainkan Lucia saat misi Andy muncul dan ikuti rantai misinya sampai akhir. Misi opsional kadang hanya tersedia sementara, jadi jangan menunda terlalu lama ketika ikon Andy muncul. Namun quest giver yang sempat tidak tersedia akan kembali, dan tidak ada sumber yang menyebut trophy ini missable. Selesaikan seluruh rangkaian Andy dan trophy akan muncul setelah misi terakhirnya.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Selesaikan misi terakhir dari strand penyelaman harta karun Kenton, yang menurut Sixshore melibatkan total 7 bangkai kapal. Kenton sempat menghilang setelah Chapter 1 lalu kembali di kemudian hari, jadi trophy ini tidak bisa terlewat meski ia lama tidak tersedia. Selami tiap lokasi bangkai kapal yang ditandai, ambil harta karunnya, dan lanjutkan rantai misi Kenton sampai misi terakhir selesai. Lokasi ketujuh bangkai kapal belum terkonfirmasi secara rinci oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru), jadi ikuti penanda misi saat menyelam.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Selesaikan misi terakhir dari strand Billy di mud club di Kelly County. Menurut Sixshore, strand ini terbuka mulai Chapter 2, jadi datangi mud club setelah Chapter 2 dimulai dan ikuti rangkaian misi Billy sampai tuntas. Misi opsional kadang hanya tersedia untuk sementara waktu, jadi kerjakan saat ikon Billy muncul daripada menundanya. Tidak ada sumber yang menyebut trophy ini missable, dan semua quest giver trophy akan tetap tersedia setelah cerita tamat. Selesaikan misi terakhir Billy dan trophy akan muncul otomatis.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "kind": "story",
+      "missable": false,
+      "count": 8,
+      "hidden": false,
+      "guide": "Selesaikan 8 strand misi strangers di seluruh negara bagian Leonida. Menurut PowerPyx, ada 14 strand strangers di dalam game, jadi kamu tidak perlu menyelesaikan semuanya, cukup 8. Strand ini berbeda dari strand karakter bernama seperti Andy atau Billy, dan PowerPyx masih mengonfirmasi strand mana saja yang dihitung. Kerjakan strand strangers yang kamu temui selama menjelajah, dan selesaikan semuanya setelah cerita tamat bila perlu. Trophy ini bukan bagian dari checklist 100%, jadi sering menjadi sisa yang dikerjakan di tahap akhir sebelum platinum.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Selesaikan misi terakhir dari strand Randy, yang menurut Sixshore berupa daftar keinginan berisi 16 mobil sport. Strand ini terbuka mulai Chapter 3, jadi carilah mobil-mobil sport yang diminta Randy dan antar ke lokasi yang ditunjuk, satu per satu, sampai daftarnya lengkap. Gunakan aplikasi WAiNK untuk memindai kendaraan agar lebih mudah mengenali model yang dicari. Tidak ada sumber yang menyebut trophy ini missable, dan strand ini tetap bisa diselesaikan setelah cerita tamat. Daftar 16 mobilnya belum terkonfirmasi (belum terkonfirmasi — periksa panduan terbaru).",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Selesaikan misi terakhir dari strand Tyrone, yang menurut Sixshore berfokus pada penutupan laboratorium di Vice City. Strand ini hanya bisa dimainkan sebagai Jason dan terbuka mulai Chapter 3, jadi mainkan Jason saat misi Tyrone muncul dan ikuti rantai misinya sampai akhir. Misi opsional kadang hanya tersedia sementara, jadi jangan terlalu lama menunda ketika ikon Tyrone muncul di peta. Tidak ada sumber yang menyebut trophy ini missable. Selesaikan misi terakhir Tyrone dan trophy akan muncul otomatis.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": true,
+      "count": 18,
+      "hidden": false,
+      "guide": "Bermeditasilah di semua 18 titik meditasi yang tersebar di 10 lokasi berbeda di Leonida, dan ini adalah satu-satunya trophy yang berpotensi missable menurut PowerPyx. Di Chapter 1, setelah misi Down to Earth, pada suatu pagi Lucia di dapur rumah Jason akan berkata ingin bermeditasi lalu berjalan ke balkon; ikuti dia, pilih Accept, dan selesaikan meditasi itu, karena momen ini hilang setelah Chapter 1. Meditasi itu menaikkan counter progres, meski belum terkonfirmasi apakah trophy ini benar-benar membutuhkannya (belum terkonfirmasi — periksa panduan terbaru). Setelah Coffee Break di Chapter 2, bermeditasi bersama Jason dan Lucia di satu lokasi dihitung dua kali.",
+      "sources": [
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)",
+        "GTABase — GTA 6 Trophy Guide & Achievements List (PS5 & Xbox Series X|S) (https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series)"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Buru seekor hewan unik untuk Bret. Menurut Sixshore, strand Bret hanya bisa dimainkan sebagai Jason dan terbuka mulai Chapter 2. PowerPyx belum mengonfirmasi hewan mana yang memicu trophy ini, jadi cara paling aman adalah menyelesaikan seluruh quest Bret, karena menyelesaikan 15 target deck Bret yang dibutuhkan 100% seharusnya sudah mencakup hewan unik tersebut. Gunakan teropong untuk mempelajari hewan sebelum berburu, dan dekati target dengan tenang agar tidak kabur. Hewan unik yang dimaksud belum terkonfirmasi (belum terkonfirmasi — periksa panduan terbaru), jadi kerjakan semua target Bret.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "kind": "collectible",
+      "missable": false,
+      "count": 3,
+      "hidden": false,
+      "guide": "Lengkapi 3 set kartu koleksi dari total 18 set yang ada di game, menurut Sixshore. Kartu tersebar di seluruh Leonida, di toko, di lokasi tersembunyi, dan di tempat lain, jadi kumpulkan kartu sambil menjelajah dan periksa progres set di menu koleksi. Kamu hanya perlu 3 set lengkap, jadi pilih set yang kartunya paling mudah ditemukan dan fokus pada set tersebut. Kartu koleksi hanya sebagian diwajibkan untuk 100%, jadi trophy ini bisa selesai lebih cepat. Lokasi tiap kartu belum terkonfirmasi secara rinci (belum terkonfirmasi — periksa panduan terbaru), jadi gunakan panduan koleksi saat berburu kartu.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "kind": "collectible",
+      "missable": false,
+      "count": 100,
+      "hidden": false,
+      "guide": "Gunakan aplikasi WAiNK di ponsel untuk memindai 100 lokasi di seluruh Leonida. Menurut Sixshore, landmark, hal menarik, dan patung semuanya dihitung, jadi pindai setiap tempat menarik yang kamu temui saat menjelajah. WAiNK juga dipakai untuk menemukan kendaraan, sehingga trophy ini berjalan beriringan dengan Whip It Good. Tidak ada batas waktu dan semua lokasi tetap bisa dipindai setelah cerita tamat. Daftar 100 lokasi termudah belum terkonfirmasi (belum terkonfirmasi — periksa panduan terbaru), jadi pindai saja semua yang menarik dan pantau counter di menu Progress.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "count": 50,
+      "hidden": false,
+      "guide": "Selesaikan 50 challenge dari total 80 challenge yang ada di game, yang terbagi dalam 8 kelompok berisi 10 challenge menurut beberapa panduan. Challenge mencakup berbagai aktivitas seperti berkendara, menembak, dan menjelajah, jadi kerjakan yang paling mudah dulu sambil memainkan game secara alami. Checklist 100% membutuhkan 70 challenge, jadi trophy ini akan muncul dalam perjalanan menuju A Long Road. Tidak ada challenge yang missable, dan semuanya bisa dikerjakan setelah cerita tamat. Daftar challenge termudah belum terkonfirmasi (belum terkonfirmasi — periksa panduan terbaru), jadi pantau progres di menu Progress.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": false,
+      "guide": "Hilangkan wanted level bintang 4 saat partner kamu ikut bersama, lalu kabur dari kejaran polisi. Trophy ini baru bisa dikerjakan setelah kedua karakter bisa menjelajah bersama, yaitu mulai Chapter 2, menurut Sixshore. Cara termudah adalah memicu wanted level bintang 4 lewat perampokan bank, karena perampokan bank memang memberikan 4 bintang, lalu bersembunyi sampai polisi kehilangan jejakmu. Gunakan gang sempit, terowongan, atau kendaraan cepat untuk kabur, dan pastikan partner tetap bersamamu sampai wanted level hilang sepenuhnya.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": false,
+      "guide": "Rampok 3 toko berturut-turut bersama partner tanpa kehilangan wanted level di antaranya. Menurut Sixshore, trophy ini muncul sekitar 30 detik setelah toko ketiga dirampok, jadi jangan panik bila tidak langsung muncul. Pilih tiga toko yang berdekatan, rampok satu per satu dengan cepat, dan pastikan wanted level tetap aktif sepanjang rangkaian. Jangan sampai tertangkap atau kehilangan wanted level sebelum toko ketiga selesai. Trophy ini membutuhkan partner, jadi baru bisa dikerjakan setelah kedua karakter bisa menjelajah bersama mulai Chapter 2.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "kind": "collectible",
+      "missable": false,
+      "count": 100,
+      "hidden": false,
+      "guide": "Temukan 100 kendaraan berbeda di Leonida. Menurut Sixshore, memindai kendaraan dengan aplikasi WAiNK sudah cukup, kamu tidak perlu mengendarainya. Pindai setiap kendaraan baru yang kamu lihat saat menjelajah kota, jalan raya, dan daerah pedesaan, dan pantau counter di menu Progress. Checklist 100% membutuhkan 200 dari 277 model kendaraan dasar, jadi trophy ini akan muncul jauh sebelum 100% selesai. Semua kendaraan tetap bisa ditemukan setelah cerita tamat, jadi tidak ada yang bisa terlewat. Pindai kendaraan sejak awal permainan agar progres berjalan alami.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": false,
+      "guide": "Jatuhkan 5 musuh dalam satu kali penggunaan Combat Focus. Menurut Sixshore yang mengutip PowerPyx, anggota geng dihitung sebagai musuh, sedangkan tentara, polisi, dan warga sipil tampaknya tidak dihitung. Cari kelompok geng yang berkumpul, aktifkan Combat Focus saat mereka berdekatan, dan habisi lima orang sebelum efeknya habis. Sebelum bertarung, tingkatkan fokus dengan makan, minum, atau mandi di rumah, dan bawalah Adrenaline serta senapan serbu, sesuai saran panduan. Trophy ini bisa dicoba berulang kali, jadi ulangi sampai berhasil.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Lakukan keberangkatan tak terjadwal dari bandara VCIA, yaitu bandara internasional Vice City. Menurut Sixshore, caranya adalah mencuri pesawat penumpang yang terparkir di gerbang bandara lalu menerbangkannya menjauh sekitar 1 kilometer. Masuk ke area bandara, temukan pesawat penumpang di gerbang, naik ke dalamnya, dan lepas landas sebelum keamanan menghentikanmu. Trophy ini bisa dilakukan kapan saja di free roam setelah bandara bisa diakses, jadi tidak bisa terlewat. Pastikan kamu cukup terampil menerbangkan pesawat agar tidak jatuh sebelum jarak tercapai.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy ini berkaitan dengan tank Rhino, kendaraan tempur militer di game. Menurut Sixshore yang mengutip PowerPyx, tank bisa ditemukan di Mile Zero Air Station di barat daya peta, jadi datangi pangkalan militer tersebut dan curi sebuah Rhino. Deskripsi resminya hanya berupa petunjuk samar, dan cara persis memicu trophy ini belum terkonfirmasi secara penuh oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru). Kemungkinan trophy muncul saat kamu berhasil mencuri atau mengendarai tank tersebut, jadi coba curi Rhino dan gunakan sebentar di area terbuka.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": false,
+      "guide": "Rampok sebuah toko perhiasan tanpa terdeteksi sama sekali. Menurut Sixshore, kamu membutuhkan Snap Gun, alat yang diberikan oleh sebuah misi utama di Chapter 3, jadi trophy ini baru bisa dikerjakan setelah Chapter 3. Rencanakan perampokan dengan tenang, hindari kamera dan penjaga, gunakan Snap Gun untuk membuka kunci secara diam-diam, dan kabur sebelum alarm berbunyi. Bila ketahuan, ulangi perampokan di toko lain karena toko perhiasan bisa dirampok berulang kali. Trophy ini tidak bisa terlewat dan tetap tersedia setelah cerita tamat.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "kind": "misc",
+      "missable": false,
+      "count": 5,
+      "hidden": false,
+      "guide": "Rampok 5 brankas bank dan kabur dengan selamat. Menurut Sixshore, pekerjaan bank terbuka lewat sebuah misi opsional di Chapter 4, dan ada total 8 brankas bank di game, jadi kamu hanya perlu 5 dari 8. Checklist 100% membutuhkan kedelapan brankas, jadi trophy ini akan muncul dalam perjalanan menuju A Long Road. Rencanakan tiap perampokan, kabur dari kejaran polisi setelah mengambil isi brankas, dan pastikan kamu benar-benar lolos sebelum trophy dihitung. Perampokan bank juga memberikan wanted level bintang 4, yang membantu trophy Hot Together.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": false,
+      "guide": "Rampok sebuah truk lapis baja dan kabur dengan selamat. Menurut Sixshore, perampokan bank pertama sudah dihitung untuk trophy ini, atau kamu bisa meledakkan pintu belakang truk lapis baja dengan sticky bomb lebih awal. Cari truk lapis baja yang berkeliling di jalanan Leonida, hentikan laju truk, buka bagian belakangnya, ambil uangnya, lalu kabur dari polisi. Trophy ini bisa dikerjakan kapan saja setelah truk lapis baja muncul di free roam, dan tidak bisa terlewat. Siapkan kendaraan kabur yang cepat sebelum memulai perampokan.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "kind": "collectible",
+      "missable": false,
+      "count": 52,
+      "hidden": false,
+      "guide": "Jelajahi seluruh negara bagian Leonida, yang menurut panduan terdiri dari 52 area. Trophy ini terbuka begitu kabut peta hilang dari semua area, jadi kunjungi tiap wilayah di peta sampai tidak ada lagi bagian yang tertutup kabut. Menurut Sixshore, cara tercepat adalah menggunakan pesawat untuk terbang melintasi seluruh peta, karena area terbuka saat kamu melewatinya. Jelajahi sambil mengerjakan trophy lain seperti stunt dan WAiNK agar efisien. Semua area tetap bisa dikunjungi setelah cerita tamat, jadi trophy ini tidak bisa terlewat.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": 9,
+      "hidden": false,
+      "guide": "Rampok satu operasi ilegal dari masing-masing 9 geng yang ada di Leonida. Cari lokasi operasi ilegal tiap geng di peta, serbu tempatnya, ambil hasil rampokan, dan kabur dengan selamat. Menurut Sixshore, checklist 100% membutuhkan semua 39 operasi ilegal, jadi trophy ini akan muncul lebih awal dalam perjalanan menuju A Long Road. Operasi ilegal tersebar di berbagai wilayah dan tetap tersedia setelah cerita tamat, jadi tidak ada yang bisa terlewat. Daftar geng dan lokasi operasinya belum terkonfirmasi secara rinci (belum terkonfirmasi — periksa panduan terbaru).",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Nikmati sebuah koktail dengan pemandangan di Ocean Beach, pantai terkenal di Vice City. Trophy ini berkaitan dengan momen santai di tepi pantai, dan deskripsi resminya memberi petunjuk tempat yang jelas. Namun cara persis memicu trophy ini belum terkonfirmasi oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru). Kemungkinan kamu perlu mendatangi bar atau tempat minum di area Ocean Beach, memesan koktail, dan menikmatinya sambil menghadap laut. Coba datangi bar tepi pantai di Ocean Beach saat free roam dan berinteraksi dengan tempat duduk atau bartender di sana.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Hancurkan jalan keluar dari sebuah showroom kendaraan dengan gaya klasik, mengingatkan pada adegan perampokan ikonik di seri GTA. Trophy ini mengharuskan kamu masuk ke showroom kendaraan lalu menerobos keluar dengan kendaraan, menabrak kaca dan pintu showroom. Cara persis memicu trophy ini belum terkonfirmasi oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru). Coba datangi showroom kendaraan di Vice City, naik ke salah satu mobil di dalamnya, lalu tancap gas menerobos jendela depan showroom dan kabur dari kejaran polisi.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "kind": "activity",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy ini berkaitan dengan bowling alley milik Kolt & Associates. Menurut Sixshore, caranya adalah mengambil ketiga barang berharga dari operasi geng Kingpin Bowling di Port Gellhorn, dan perampokan itu bisa kembali lagi nanti sehingga trophy ini tidak bisa terlewat. Datangi lokasi operasi geng tersebut, rampok ketiga barang berharganya, dan kabur dengan selamat. Trophy ini juga dihitung sebagai aktivitas bowling untuk Master of None. Detail lokasi dan langkah perampokan ini belum terkonfirmasi secara rinci (belum terkonfirmasi — periksa panduan terbaru), jadi ikuti penanda operasi geng di Port Gellhorn.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy ini berkaitan dengan kemitraan Jason dan Lucia yang mencapai daya tarik massal. Menurut Sixshore, caranya adalah memaksimalkan kekuatan kedua karakter, Jason dan Lucia, dan berolahraga bersama membuat keduanya sama-sama berkembang. Latih kekuatan di gym atau tempat olahraga secara rutin dengan kedua karakter sampai stat kekuatan masing-masing mencapai maksimum. Trophy ini bisa dikerjakan kapan saja di free roam setelah kedua karakter tersedia, dan tidak bisa terlewat. Lokasi gym dan metode latihan tercepat belum terkonfirmasi (belum terkonfirmasi — periksa panduan terbaru).",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": 500,
+      "hidden": true,
+      "guide": "Lakukan 500 hal yang mengubah profil kriminal kamu, menurut hitungan Sixshore. Trophy ini muncul secara alami selama kamu bermain, karena hampir semua tindakan kriminal seperti merampok, mencuri, dan melarikan diri dari polisi menambah hitungan profil kriminal. Aktifkan notifikasi progres dan profil kriminal di pengaturan UI agar kamu bisa melihat apa saja yang dihitung, sesuai saran PowerPyx. Tidak ada tindakan khusus yang wajib, cukup mainkan game secara aktif dan trophy ini akan muncul dengan sendirinya jauh sebelum platinum selesai.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy ini berkaitan dengan keberuntungan di percobaan kedua, sesuai deskripsi resminya Second time's the charm. Menurut Sixshore, PowerPyx menduga trophy ini terkait dengan toko Payday Loans, tetapi cara persis memicunya belum terkonfirmasi oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru). Kemungkinan kamu perlu gagal sekali dalam suatu aktivitas atau interaksi lalu berhasil di percobaan kedua, atau mengunjungi toko Payday Loans dan mencoba sesuatu dua kali. Coba datangi toko Payday Loans di free roam dan berinteraksi dengan layanannya sampai trophy muncul.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Trophy ini berkaitan dengan kejadian aneh yang tidak bisa dijelaskan, sesuai deskripsi resminya What the hell just happened? Menurut Sixshore, PowerPyx menduga trophy ini terkait dengan questline UFO, tetapi cara persis memicunya belum terkonfirmasi oleh sumber yang saya baca (belum terkonfirmasi — periksa panduan terbaru). Kemungkinan kamu perlu menemukan lokasi atau kejadian terkait UFO di Leonida, misalnya cahaya aneh di langit pada waktu dan tempat tertentu. Jelajahi area terpencil di malam hari dan perhatikan kejadian aneh, lalu ikuti petunjuk apa pun yang muncul.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": null,
+      "hidden": true,
+      "guide": "Jatuhkan seseorang dengan serangan melee dari kendaraan yang sedang bergerak, seperti bowling yang menjatuhkan pin. Menurut Sixshore, petunjuk dalam game mengarah pada serangan melee dari kendaraan bergerak, dan PowerPyx menduga tendangan dari sepeda motor adalah caranya. Naik sepeda motor, dekati pejalan kaki atau musuh, lalu lakukan serangan melee saat melaju dan jatuhkan target tersebut. Cara persis memicu trophy ini belum terkonfirmasi secara penuh (belum terkonfirmasi — periksa panduan terbaru), jadi coba beberapa jenis kendaraan dan serangan melee sampai berhasil.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": 250000,
+      "hidden": false,
+      "guide": "Hasilkan $250.000 dengan mencuci Marked Bills lewat kontak-kontak kamu. Menurut Sixshore, jumlah ini terakumulasi dari berbagai perampokan, jadi kamu tidak perlu mencuci semuanya sekaligus. Alat dye pack jammer yang dibutuhkan terbuka lewat sebuah misi utama di Chapter 3, jadi trophy ini baru bisa dikerjakan setelah Chapter 3. Rampok bank, toko, dan truk lapis baja untuk mengumpulkan Marked Bills, lalu cuci lewat kontak fence yang tersedia. Perampokan bank disebut PowerPyx sebagai penghasil uang terbaik di late game, jadi fokuslah ke sana.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": 100000,
+      "hidden": false,
+      "guide": "Habiskan total $100.000 di semua toko di Leonida. Menurut Sixshore, cara tercepat adalah membeli senjata, modifikasi mobil, dan tato, karena ketiganya mahal dan cepat menghabiskan anggaran. Belanja di toko pakaian, toko senjata, bengkel, dan tempat tato sambil bermain, dan jumlahnya terakumulasi dari semua toko. Trophy ini akan muncul secara alami saat kamu memperlengkapi karakter dan kendaraan, apalagi bila kamu membeli perlengkapan mahal untuk misi dan perampokan. Pantau total belanja di menu Progress bila tersedia.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": 8,
+      "hidden": false,
+      "guide": "Beli semua 8 properti garasi yang bisa dibeli di Leonida. Menurut Sixshore yang mengutip PowerPyx, total harganya sekitar $160.000, dan aplikasi real estate untuk membeli properti tiba di Chapter 2. Buka aplikasi real estate di ponsel, periksa daftar garasi yang tersedia, dan beli satu per satu saat uangmu cukup. Perampokan bank adalah sumber uang terbaik di late game, jadi kerjakan perampokan dulu bila uangmu kurang. Trophy ini juga membantu On the Spot, karena kamu butuh ruang garasi sebelum mendaftarkan kendaraan di aplikasi Scooter Bros.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "kind": "misc",
+      "missable": false,
+      "count": 10,
+      "hidden": false,
+      "guide": "Daftarkan 10 kendaraan ke aplikasi Scooter Bros. Menurut Sixshore, kamu membutuhkan ruang garasi terlebih dahulu, jadi kerjakan trophy ini berpasangan dengan Little Boxes yang mengharuskanmu membeli semua 8 garasi. Kumpulkan kendaraan yang berbeda, simpan di garasimu, lalu daftarkan satu per satu lewat aplikasi Scooter Bros di ponsel. Gunakan kendaraan yang mudah ditemukan di jalanan agar cepat, dan pastikan garasi tidak penuh sebelum mendaftarkan kendaraan berikutnya. Trophy ini muncul begitu kendaraan kesepuluh berhasil didaftarkan.",
+      "sources": [
+        "Sixshore — GTA 6 Trophy and Achievement List: All 55, Missables and Roadmap (https://sixshore.com/gta-6/guides/trophies-and-achievements/)",
+        "PowerPyx — GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap (https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/)"
+      ]
+    }
+  ]
+}
